@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World 👋🌎
 
 <!--
 **kyle-foral/kyle-foral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello my name is Kyle Foral, I'm a Junior Engineer. The programs I know are  Javascript(ES5/ES6), HTML5, CSS3, Node.js, PostgreSQL and React - but I'm open to learning more. 🌱 I’m currently about to start leaning C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Engineer
+
+💬 Ask me about anything you'd like to know or even how I ended up on my path to where I'm at now.
+
+ 📫 Reach me: 
+ kyleforal@gmail.com
+ https://www.linkedin.com/in/kyle-foral/
+ 
+- 🔭 I’m currently working on improving my skills on the daily to strive and be better.
+- ⚡ Fun fact: I love to game.
+
+

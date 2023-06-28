@@ -8,6 +8,7 @@ Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Enginee
 
  📫 Reach me: 
  kyleforal@gmail.com
+ 
  https://www.linkedin.com/in/kyle-foral/
  
 - 🔭 I’m currently working on improving my skills on the daily to strive and be better.

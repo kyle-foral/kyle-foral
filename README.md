@@ -18,6 +18,7 @@ Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Enginee
  ### Live Links
  -First Project Pokemon Party.
  A small application that allows the user to create Pokemon teams.
+ 
  https://kyle-foral.github.io/AJAX-Project/#
 
 

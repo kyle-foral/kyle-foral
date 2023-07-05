@@ -19,7 +19,7 @@ Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Enginee
  -First Project. Pokemon Party : 
   https://kyle-foral.github.io/AJAX-Project/#
  
- A small application that allows the user to create Pokemon teams.  : 
+ A small application that allows the user to create Pokemon teams.
 
 
 

@@ -16,10 +16,11 @@ Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Enginee
 - ⚡ Fun fact: I love to play games in my free time.
 
  ### Live Links
- -First Project Pokemon Party.
+ -First Project. Pokemon Party : 
+  https://kyle-foral.github.io/AJAX-Project/#
  
  A small application that allows the user to create Pokemon teams.  : 
- https://kyle-foral.github.io/AJAX-Project/#
+
 
 
 <!--

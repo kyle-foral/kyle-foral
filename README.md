@@ -6,7 +6,7 @@ Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Enginee
 
 💬 Ask me about anything you'd like to know or even how I ended up on my path to where I'm at now.
 
- 📫 Reach me: 
+ 📫 ### Reach Me: 
  kyleforal@gmail.com
  
  https://www.linkedin.com/in/kyle-foral/

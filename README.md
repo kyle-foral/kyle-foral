@@ -2,7 +2,7 @@
 
 Hello my name is Kyle Foral, I'm a Junior Engineer. The programs I know are  Javascript(ES5/ES6), HTML5, CSS3, Node.js, PostgreSQL and React - but I'm open to learning more. 🌱 I’m currently about to start leaning C++
 
-Electrian Apprentice => Office Assistant => Maintence Tech 2 => Software Engineer
+Electrian Apprentice => Office Assistant => Maintenance Tech 2 => Software Engineer
 
 💬 Ask me about anything you'd like to know or even how I ended up on my path to where I'm at now.
 

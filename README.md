@@ -18,6 +18,9 @@ Electrian Apprentice => Office Assistant => Maintenance Tech 2 => Software Engin
  ### Live Links
  -First Project. Pokemon Party : 
   https://kyle-foral.github.io/AJAX-Project/#
+
+  -First Full Stack Project. Food Planner :
+  https://food-planner.kforal.com
  
  A small web application that allows the user to create Pokemon teams for whatever needs they have. It can be making a team of your favorite pokemon or theory crafting teams to try and make good combonations of them. There is also a function to favorite a team if the user desires.
 

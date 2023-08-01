@@ -12,8 +12,8 @@ Electrian Apprentice => Office Assistant => Maintenance Tech 2 => Software Engin
  https://www.linkedin.com/in/kyle-foral/
 
 
-- 🔭 I’m currently working on improving my skills on the daily to strive and be better.
-- ⚡ Fun fact: I love to play games in my free time.
+- 🔭 I’m currently working on improving my skills to strive and be better.
+- ⚡ Fun fact: I love to play games or read in my free time.
 
  ### Live Links
  -First Project. Pokemon Party : 

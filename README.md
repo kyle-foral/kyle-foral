@@ -24,7 +24,7 @@ Electrian Apprentice => Office Assistant => Maintenance Tech 2 => Junior Softwar
   -First Full Stack Project. Food Planner :
   https://food-planner.kforal.com
 
- I built this project so users interested in createing a custom meal plan for the week.
+ I built this project for users interested in creating a custom meal plan for the week. It comes along with a nice and easy to use calorie tracker that's based on your BMI.
 
 <!--
 **kyle-foral/kyle-foral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
